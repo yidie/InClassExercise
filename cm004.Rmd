@@ -22,7 +22,7 @@ y <- rnorm(100)
 plot(x,y)
 ```
 
-```{r}
+```{r, this is the second r chunk}
 summary(x)
 ```
 
